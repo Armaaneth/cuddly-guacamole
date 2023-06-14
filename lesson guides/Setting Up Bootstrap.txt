@@ -1,0 +1,11 @@
+There are 3 ways to set up bootstrap in your project
+
+1. NPM Installation
+2. CDN integration
+3. Zip Folder download
+
+The npm install can be run on the project console by initializing npm (npm init) and installing the dependencies(npm install bootstrap). 
+
+The cdn is more popular and you just visit (https://getbootstrap.com/docs/5.3/getting-started/download/) and copy the cdn links and integrate them into your project.
+
+The zip folder download is a bit more time consuming, you'd need to visit the bootstrap webiste (https://getbootstrap.com/docs/5.3/getting-started/download/) and click on the download button you see. After the download has  been completed,you unzip the file and include it in your assets files, then link to the css and js files respectively. 
