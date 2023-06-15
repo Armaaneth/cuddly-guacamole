@@ -1,4 +1,4 @@
-One of the reasons why bootstrap became popular is because of the responsiveness. Responsiveness has always been a pain for developers generally and bootstrap changed the game. 
+  One of the reasons why bootstrap became popular is because of the responsiveness. Responsiveness has always been a pain for developers generally and bootstrap changed the game. 
 
 The reason why this is possible is because of  bootstrap grid. The bootstrap grid allows the webpage to be allocated to breakpoints that can be used by bootstrap. Responsiveness could only occur due to this breakpoints development. 
 
@@ -10,8 +10,8 @@ Bootstrap uses rows and columns and each row/ column has 12 units. For example,i
 Available breakpoints 
 Bootstrap includes six default breakpoints, sometimes referred to as grid tiers, for building responsively. These breakpoints can be customized if you’re using our source Sass files.
 
-	Breakpoint	Class infix	Dimensions
-	Extra small	None		<576px(Mobile phones)
+	Breakpoint	Class infix		Dimensions
+	Extra small	None		<576px(Mobile phones) 
 	Small		sm		≥576px(Mobile phones with larger screens)
 	Medium		md		≥768px(Tablets and ipads)
 	Large		lg		≥992px(Tablets and ipads with larger screens)

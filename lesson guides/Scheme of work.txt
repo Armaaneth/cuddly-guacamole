@@ -10,7 +10,7 @@
 7.	Cards.
 8.	Typography.
 9.	Responsive images.
-10.	Utitlities.
+10.	Utilities.
 11.	Tables.
 12.	Alerts.
 13.	Navs and Navbars.
