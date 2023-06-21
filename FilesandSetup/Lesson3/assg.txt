@@ -1,9 +1,9 @@
 For Bashy:
 
 <!-- HTML !-->
+/* CSS */
 <button class="button-54" role="button">Button 54</button>
 
-/* CSS */
 .button-54 {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
