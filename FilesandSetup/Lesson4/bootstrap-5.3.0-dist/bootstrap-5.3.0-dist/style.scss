@@ -1,0 +1,24 @@
+h1 {
+    color: red; /* Default color for h1*/
+  
+    @include media-breakpoint-up(sm) {
+      color: green; /* Color for small screens and larger*/
+    }
+  
+    @include media-breakpoint-up(md) {
+      color: blue; /* Color for medium screens and larger*/
+    }
+  
+    @include media-breakpoint-up(lg) {
+      color: orange; /* Color for large screens and larger*/
+    }
+  
+    @include media-breakpoint-up(xl) {
+      color: purple; /* Color for extra-large screens and larger*/
+    }
+  
+    @include media-breakpoint-up(xxl) {
+      color: pink; /* Color for extra-extra-large screens and larger*/
+    }
+}
+  
